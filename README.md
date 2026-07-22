@@ -1,5 +1,5 @@
 # MailBlueprint
-![MailBlueprint](screenshots/mailblueprint.png)
+![MailBlueprint](mailblueprint.png)
 
 A blueprint repository for making Claude build a full **multi-account desktop mail client** (Electron + IMAP/SMTP, Outlook-style) **from a single prompt**. There is no application code here — only the specification Claude needs to build the app correctly, completely, and without falling into pitfalls that were already hit and fixed once.
 
