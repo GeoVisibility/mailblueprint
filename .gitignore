@@ -1,0 +1,21 @@
+# Bağımlılıklar
+node_modules/
+
+# Build çıktıları
+dist/
+out/
+build/win-unpacked/
+
+# Loglar ve geçici dosyalar
+*.log
+npm-debug.log*
+smoke-out.txt
+smoke-err.txt
+
+# İşletim sistemi
+Thumbs.db
+.DS_Store
+
+# Editör
+.vscode/
+.idea/
